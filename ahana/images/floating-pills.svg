@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre; background: rgba(0,0,0,0.00);">
+    <defs>
+        <linearGradient id="Gradient-0" x1="32" y1="0" x2="32" y2="64" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+            <stop offset="0.285" stop-color="#ffffff"/>
+            <stop offset="0.74" stop-color="#ffffff"/>
+            <stop offset="1" stop-color="#dddddd" stop-opacity="0"/>
+        </linearGradient>
+        <mask id="Mask-1">
+            <rect width="9" height="39" fill="#ffffff" stroke="none" rx="4" transform="translate(4.5,86.5) translate(-4.5,-19.5)" style="animation: 1.3s linear infinite both a0_t;"/>
+            <rect width="9" height="39" fill="#ffffff" stroke="none" rx="4" transform="translate(4.5,86.5) translate(-4.5,-19.5)" style="animation: 1.3s linear infinite both a1_t;"/>
+            <rect width="9" height="59" fill="#ffffff" stroke="none" rx="4" transform="translate(24.5,86.5) translate(-4.5,-27.5)" style="animation: 1.3s linear infinite both a2_t;"/>
+            <rect width="9" height="39" fill="#ffffff" stroke="none" rx="4" transform="translate(24.5,86.5) translate(-4.5,-19.5)" style="animation: 1.3s linear infinite both a3_t;"/>
+            <rect width="9" height="39" fill="#ffffff" stroke="none" rx="4" transform="translate(34.5,86.5) translate(-4.5,-19.5)" style="animation: 1.3s linear infinite both a4_t;"/>
+            <rect width="9" height="51" fill="#ffffff" stroke="none" rx="4" transform="translate(54.5,86.5) translate(-4.5,-19.5)" style="animation: 1.3s linear infinite both a5_t;"/>
+        </mask>
+    </defs>
+    <style>
+@keyframes a0_t { 0% { transform: translate(0px,67px); } 46.1538% { transform: translate(0px,67px); } 92.3076% { transform: translate(0px,-43px); } 100% { transform: translate(0px,-43px); } }
+@keyframes a1_t { 0% { transform: translate(0px,67px); } 53.8461% { transform: translate(0px,-43px); } 100% { transform: translate(0px,-43px); } }
+@keyframes a2_t { 0% { transform: translate(20px,59px); } 38.4615% { transform: translate(20px,-61px); } 100% { transform: translate(20px,-61px); } }
+@keyframes a3_t { 0% { transform: translate(20px,67px); } 23.0769% { transform: translate(20px,67px); } 61.5384% { transform: translate(20px,-43px); } 100% { transform: translate(20px,-43px); } }
+@keyframes a4_t { 0% { transform: translate(30px,67px); } 46.1538% { transform: translate(30px,67px); } 100% { transform: translate(30px,-43px); } }
+@keyframes a5_t { 0% { transform: translate(50px,67px); } 15.3846% { transform: translate(50px,67px); } 84.6153% { transform: translate(50px,-51px); } 100% { transform: translate(50px,-51px); } }
+    </style>
+    <rect id="mask" width="64" height="64" fill="url(#Gradient-0)" stroke="none" mask="url(#Mask-1)" transform="translate(32,32) translate(-32,-32)"/>
+</svg>
